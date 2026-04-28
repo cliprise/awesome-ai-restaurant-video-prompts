@@ -21,15 +21,15 @@ This repository is built for **restaurants, cafes, food trucks, delivery brands,
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Awesome AI Video Ads Prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts)
-- [Awesome AI UGC Video Prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts)
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Best AI Video Generator Resources](https://github.com/cliprise/best-ai-video-generator-resources)
-
----
-
+- [Awesome AI TikTok video prompts](https://github.com/cliprise/awesome-ai-tiktok-video-prompts) - vertical short-form hooks and native-feel video patterns.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI UGC video prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) - creator-native patterns with compliance-conscious structure.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI product photography prompts](https://github.com/cliprise/awesome-ai-product-photography-prompts) - catalog, PDP, and marketplace still image prompt paths.
+<!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
